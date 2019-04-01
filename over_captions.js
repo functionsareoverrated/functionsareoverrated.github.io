@@ -20,6 +20,9 @@ var over_captions = {
     "C0 and SML aren't even real languages",
     "#TeamFiniteStateMachines",
     "#Team No one because this entire thing is ridiculous",
+    "there was never a mariachi band",
+    "150 TAs: Functions are supposed to be values \nBarry B. Benson: Not in this fairy tale sweetheart.",
+    "It's like I have ESPN or something"
     
     
   ]
